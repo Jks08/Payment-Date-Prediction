@@ -10,4 +10,7 @@ Shape:
 <p>
 DataSet:
 <img align="left" alt="descEDA" src="https://github.com/Jks08/Payment-Date-Prediction/blob/main/Assets/Images/EDA.png" /></p>
-  
+<p>&nbsp;</p>
+<p>
+NullValue:
+<img align="left" alt="nullValues" src="https://github.com/Jks08/Payment-Date-Prediction/blob/main/Assets/Images/nullValues.png" /></p>
