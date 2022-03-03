@@ -14,3 +14,11 @@ DataSet:
 <p>
 NullValue:
 <img align="left" alt="nullValues" src="https://github.com/Jks08/Payment-Date-Prediction/blob/main/Assets/Images/nullValues.png" /></p>
+<p>&nbsp;</p>
+<p>
+Highly Correlated and Constant Column:
+<img align="left" alt="highlyCorrelatedConstantColumn" src="https://github.com/Jks08/Payment-Date-Prediction/blob/main/Assets/Images/toDropColumns.png" /></p>
+<p>&nbsp;</p>
+<p>
+Drop Columns of no use:
+<img align="left" alt="dropColumnsofnouse" src="https://github.com/Jks08/Payment-Date-Prediction/blob/main/Assets/Images/dropColumns0.png" /></p>
