@@ -22,3 +22,7 @@ Highly Correlated and Constant Column:
 <p>
 Drop Columns of no use:
 <img align="left" alt="dropColumnsofnouse" src="https://github.com/Jks08/Payment-Date-Prediction/blob/main/Assets/Images/dropColumns0.png" /></p>
+<p>&nbsp;</p>
+<p>
+Drop Duplicates:
+<img align="left" alt="dropDuplicates" src="https://github.com/Jks08/Payment-Date-Prediction/blob/main/Assets/Images/dropDuplicateCol.png" /></p>
