@@ -26,3 +26,11 @@ Drop Columns of no use:
 <p>
 Drop Duplicates:
 <img align="left" alt="dropDuplicates" src="https://github.com/Jks08/Payment-Date-Prediction/blob/main/Assets/Images/dropDuplicateCol.png" /></p>
+<p>&nbsp;</p>
+<p>
+Drop Duplicates:
+<img align="left" alt="dateTimeFormat" src="https://github.com/Jks08/Payment-Date-Prediction/blob/main/Assets/Images/datTimeFormat.png" /></p>
+<p>&nbsp;</p>
+<p>
+Drop Duplicates:
+<img align="left" alt="usdToCAD" src="https://github.com/Jks08/Payment-Date-Prediction/blob/main/Assets/Images/usdToCAD.png" /></p>
