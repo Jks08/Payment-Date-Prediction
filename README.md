@@ -9,3 +9,9 @@ This ML model is built on the provided dataset, to predict whether Payment Date 
 https://github.com/Jks08/Payment-Date-Prediction/tree/main/Assets/Exploratory%20Data%20Analysis%20and%20Cleaning
 
 ** **
+
+**2) Data Splitting:**
+    
+https://github.com/Jks08/Payment-Date-Prediction/tree/main/Assets/Splitting%20the%20Dataset
+
+** **
