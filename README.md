@@ -15,3 +15,9 @@ https://github.com/Jks08/Payment-Date-Prediction/tree/main/Assets/Exploratory%20
 https://github.com/Jks08/Payment-Date-Prediction/tree/main/Assets/Splitting%20the%20Dataset
 
 ** **
+
+**3) Working on MainData:**
+    
+https://github.com/Jks08/Payment-Date-Prediction/tree/main/Assets/Working%20on%20Maindata
+
+** **
