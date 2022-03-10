@@ -20,4 +20,11 @@ https://github.com/Jks08/Payment-Date-Prediction/tree/main/Assets/Splitting%20th
     
 https://github.com/Jks08/Payment-Date-Prediction/tree/main/Assets/Working%20on%20Maindata
 
+
+** **
+
+**4) Feature Engineering:**
+
+https://github.com/Jks08/Payment-Date-Prediction/tree/main/Feature%20Engineering
+
 ** **
