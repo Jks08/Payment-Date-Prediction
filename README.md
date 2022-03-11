@@ -25,6 +25,6 @@ https://github.com/Jks08/Payment-Date-Prediction/tree/main/Assets/Working%20on%2
 
 **4) Feature Engineering:**
 
-https://github.com/Jks08/Payment-Date-Prediction/tree/main/Feature%20Engineering
+https://github.com/Jks08/Payment-Date-Prediction/tree/main/Assets/Feature%20Engineering
 
 ** **
